@@ -29,7 +29,6 @@
   "lp_subscribe_description": "SteemConnect가 방금 시작되었습니다. 이메일을 입력하여 프로젝트 업데이트와 SteemConnect를 먼저 이용해 보세요!",
   "lp_subscribe_button": "내게 액세스 권한 부여",
   "lp_footer": "A Steemit Inc + Busy project",
-
   "about_steemconnect": "About SteemConnect",
   "account": "Account",
   "account_recovered": "The account @{account} has been recovered",
@@ -129,6 +128,7 @@
   "new_password": "New password",
   "not_visible": "Not visible",
   "my_apps": "My Apps",
+  "no": "No",
   "oauth2": "OAuth2",
   "operation_require_roles": "This operation requires your {roles} key or master password.",
   "operation_require_signature": "This operation require a signature from the account creator.",
@@ -193,7 +193,6 @@
   "yes": "Yes",
   "you": "You",
   "your_apps": "These are your apps.",
-
   "account_witness_proxy_description": "Choose a proxy that will vote for witnesses for one account. This will reset the current account witness selection.",
   "account_witness_vote_description": "Vote for a witness.",
   "cancel_transfer_from_savings_description": "Cancel a withdrawal from the savings balance immediately.",
