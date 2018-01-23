@@ -1,0 +1,6 @@
+files:
+  - source: /src/locales/en.json
+    translation: /src/locales/%two_letters_code%.json
+    languages_mapping:
+      two_letters_code:
+        en: en-crowdin
